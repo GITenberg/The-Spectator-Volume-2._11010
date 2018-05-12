@@ -1,5 +1,8 @@
 _repo: The-Spectator-Volume-2._11010
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Steele, Richard, Sir
@@ -7,19 +10,21 @@ creator:
     - Steele, R. (Richard), Sir
     - Bickerstaff, Isaac
     - Edgar, John, Sir
-    birthdate: &id001 1672
+    birthdate: 1672
     deathdate: 1729
     gutenberg_agent_id: '984'
     url: http://www.gutenberg.org/2009/agents/984
     wikipedia: http://en.wikipedia.org/wiki/Richard_Steele
   - agent_name: Addison, Joseph
     alias: Bickerstaff, Isaac
-    birthdate: *id001
+    birthdate: 1672
     deathdate: 1719
     gutenberg_agent_id: '1024'
     url: http://www.gutenberg.org/2009/agents/1024
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Addison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11010#The-Spectator-Volume-2.
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
